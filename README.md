@@ -79,7 +79,6 @@
 | NumPy | Numerical computing |
 | Matplotlib | Data visualization |
 | BeautifulSoup4 | Web scraping |
-| NLTK / VADER | Sentiment analysis |
 | VS Code | Development environment |
 
 ---
